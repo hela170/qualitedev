@@ -1,5 +1,5 @@
 # Qualité de développement
-modif hela
+modif hela jnfenfokez
 Le but de ce cours est de faire des tests d'intégration au fur et à mesure que des nouveaux composants sont intégrés dans une apllication 
 tout en vérifiant que les tests précédents continuent de passer sans relever d'erreur. 
 On appelle cela des tests de non regression.
